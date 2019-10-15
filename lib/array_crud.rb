@@ -25,7 +25,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   array = []
-  return index
+  return []
 end
 
 def retrieve_first_element_from_array(array)
